@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/9cghZPGI3DiSygM6j7/giphy.gif"/>
+  <img src="https://media.giphy.com/media/9cghZPGI3DiSygM6j7/giphy.gif" width="250"/>
   
   <div id="badges">
   <a href="https://t.me/Veronika_Smorodnikova">
